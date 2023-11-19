@@ -1,5 +1,7 @@
-UnSpenda: The Future of Reward Points Management
-Inspiration
+### UnSpenda: 
+The Future of Reward Points Management
+----
+#### Inspiration
 UnSpenda was born from the idea that managing reward points should be as easy as having a conversation. It's designed for those who seek seamless integration of financial management into their daily routine.
 
 What it does
@@ -28,6 +30,6 @@ amazon-web-services
 flask
 nextjs
 react
-Try it out
-www.unspenda.com
- GitHub Repo
+----
+
+https://www.unspenda.com
